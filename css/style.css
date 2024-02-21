@@ -86,7 +86,7 @@ h2 {
 }
 
 .apple {
-  background:linear-gradient(rgb(0,0,0,0.2),rgb(0,0,0,0.2)),url(/img/Screenshot_4.png) no-repeat;
+  background:linear-gradient(rgb(0,0,0,0.2),rgb(0,0,0,0.2)),url(img/Screenshot_4.png) no-repeat;
   background-size: cover;
   height: 80vh;
   width: 100%;
