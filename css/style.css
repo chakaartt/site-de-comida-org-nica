@@ -46,7 +46,7 @@
 }
 
 .main {
-  background: url(img/frutas_90_azul.jpg) no-repeat;
+  background: url(/img/frutas_90_azul.jpg) no-repeat;
   background-size: cover;
   height: 100vh;
   background-position: 50% 50%;
