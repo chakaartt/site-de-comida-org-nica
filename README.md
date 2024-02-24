@@ -4,7 +4,7 @@ Bem-vindo ao Organico, um site estático dedicado à promoção de um estilo de 
 
 ## Visão Geral
 
-O FoodLife é um projeto desenvolvido como parte do meu trabalho de faculdade. O objetivo é criar uma plataforma simples, mas informativa, para promover alimentos saudáveis e oferecer a opção de compra de produtos orgânicos.
+Ogânico é um projeto desenvolvido como parte do meu trabalho de faculdade. O objetivo é criar uma plataforma simples, mas informativa, para promover alimentos saudáveis e oferecer a opção de compra de produtos orgânicos.
 
 ## Tecnologias Utilizadas
 
